@@ -1,6 +1,6 @@
 # Bottom-Ruby
 
-An implementation of the bottom spec in ruby
+An implementation of the old bottom spec in ruby
 
 ## Installation
 
